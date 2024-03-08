@@ -14,7 +14,11 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
       ),
       body: Center(
-        child: Text("third"),
+        child: Column(
+          children: [
+            Text("New Updated"),
+          ],
+        )
       ),
     );
   }
