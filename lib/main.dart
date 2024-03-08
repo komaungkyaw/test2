@@ -14,7 +14,7 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
       ),
       body: Center(
-        child: Text("2"),
+        child: Text("second"),
       ),
     );
   }
